@@ -18,7 +18,7 @@ export default function Home() {
         <Link
           href='/newPost'
           className='border  border-orange-500 rounded-full mt-10 p-4'
-        >CREATE fghjj</Link>
+        >CREATE</Link>
       </div>
     </div>
 
